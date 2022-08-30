@@ -5,7 +5,7 @@
 - 🌱 Research Interests: Graph Theory & Deep Learning - Distributions Shifts, Optimization, & Structure Learning.
 - 👯 Checkout [LeetHub](https://github.com/QasimWani/LeetHub), top trending JS repository to automatically save your Leetcode submissions to GitHub.
 - 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
-
+- 📫 [LinkedIn](https://www.linkedin.com/in/manishmasiwal/)
 <!--
 **manish3522/manish3522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
