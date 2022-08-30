@@ -1,5 +1,5 @@
 ### Hi there, I'm Manish 👋
-<p>Software Engineer at Amazon</p>
+<p>Software Engineer at Amazon Alexa</p>
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Microservices Architechture
